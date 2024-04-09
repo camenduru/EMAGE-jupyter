@@ -18,7 +18,7 @@ https://arxiv.org/abs/2401.00374
 https://pantomatrix.github.io/EMAGE/
 
 ### 🖼 Output
-
+![image](https://github.com/camenduru/EMAGE-jupyter/assets/54370274/7046cfa8-a5a4-4f4b-a793-113e026b7eda)
 
 ### 🏢 Sponsor
 https://modelslab.com
