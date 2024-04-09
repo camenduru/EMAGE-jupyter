@@ -8,6 +8,14 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/EMAGE-jupyter/blob/main/EMAGE_jupyter.ipynb) | EMAGE_jupyter
 
+### 📋 Tutorial
+- Register at https://smpl-x.is.tue.mpg.de and download the SMPL-X for Blender add-on. The ZIP release file will include the required SMPL-X model which is not included in the code repository.
+-  Blender>Edit>Preferences>Add-ons>Install
+- Select downloaded SMPL-X for Blender add-on ZIP file (`smplx_blender_addon-YYYYMMDD.zip`) and install
+- Enable SMPL-X for Blender add-on
+- Enable sidebar in 3D Viewport>View>Sidebar
+- SMPL-X tool will show up in sidebar
+
 ### 🧬 Code
 https://github.com/PantoMatrix/PantoMatrix/tree/main/scripts/EMAGE_2024
 
