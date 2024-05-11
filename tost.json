@@ -1,0 +1,21 @@
+{
+    "$schema": "http://json-schema.org/draft-04/hyper-schema#",
+    "type": "object",
+    "properties": {
+      "readme": {
+        "type": "string",
+        "title": "EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling",
+        "author": "Haiyang Liu, Zihao Zhu, Giorgio Becherini, Yichen Peng, Mingyang Su, You Zhou, Xuefei Zhe, Naoya Iwamoto, Bo Zheng, Michael J. Black",
+        "code": "https://github.com/PantoMatrix/PantoMatrix/tree/main/scripts/EMAGE_2024",
+        "paper": "https://arxiv.org/abs/2401.00374",
+        "page": "https://pantomatrix.github.io/EMAGE/",
+        "jupyter": "https://github.com/camenduru/EMAGE-jupyter",
+        "replicate": "https://replicate.com/camenduru/emage",
+        "post": "https://twitter.com/camenduru/status/1777612035204788543",
+        "tags": [
+          "Audio to Motion"
+        ],
+        "widget": "readme"
+      }
+    }
+  }

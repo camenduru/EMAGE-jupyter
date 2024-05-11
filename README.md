@@ -25,6 +25,9 @@ https://arxiv.org/abs/2401.00374
 ### 🌐 Page
 https://pantomatrix.github.io/EMAGE/
 
+### 💬 Post
+https://twitter.com/camenduru/status/1777612035204788543
+
 ### 🖼 Output
 ![image](https://github.com/camenduru/EMAGE-jupyter/assets/54370274/7046cfa8-a5a4-4f4b-a793-113e026b7eda)
 
